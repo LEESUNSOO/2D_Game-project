@@ -1,0 +1,22 @@
+
+## sound ## 
+*.lib
+*.a
+*.txt
+*.mp3
+*.wav
+
+## image ##
+*.psd
+*.bmp
+*.png
+
+
+## folder ##
+Debug/
+.vs/
+
+## program ##
+*.rc
+*.sln
+*.vcxproj
